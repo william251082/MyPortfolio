@@ -1,4 +1,4 @@
-# Portfolio
+# My Portfolio
 
 This website displays information and projects about my career as a Full STack Web developer.
 
@@ -18,4 +18,4 @@ This website displays information and projects about my career as a Full STack W
 2. Read through the website.
 3. Click the projects icon for information about each project.
 4. Enjoy reading!
-# MyPortfolio
+
